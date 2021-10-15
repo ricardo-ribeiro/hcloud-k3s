@@ -1,0 +1,6 @@
+[submodule "csi-driver"]
+	path = csi-driver
+	url = git@github.com:hetznercloud/csi-driver.git
+[submodule "hcloud-cloud-controller-manager"]
+	path = hcloud-cloud-controller-manager
+	url = git@github.com:hetznercloud/hcloud-cloud-controller-manager.git
